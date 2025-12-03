@@ -44,8 +44,6 @@ Bootstrap
 
 JavaScript (fetch + Axios)
 
-Thymeleaf (una vista mínima requerida)
-
 🔹 Herramientas
 
 Git / GitHub
